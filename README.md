@@ -1,2 +1,2 @@
-# First Reposittory
+# First Repository
 Exam Solves
